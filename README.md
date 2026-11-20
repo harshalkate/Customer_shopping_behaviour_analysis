@@ -3,7 +3,9 @@
 Just wrapped up an end-to-end customer behavior analysis! 📊
 
 🧹 Python (pandas): cleaned and prepared the data
+
 🗄️ SQL: CTEs, window functions and CASE segmentation to answer 9 business questions
+
 📈 Power BI: built an interactive dashboard to visualize the results
 
 Key findings:
